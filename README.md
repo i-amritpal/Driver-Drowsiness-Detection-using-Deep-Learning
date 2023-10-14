@@ -24,7 +24,7 @@ This project aims to enhance road safety by detecting driver drowsiness using de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/drivers-drowsiness-detection.git
+   git clone https://github.com/yourusername/Driver-Drowsiness-Detection-using-Deep-Learning.git
    cd drivers-drowsiness-detection
    ```
 
